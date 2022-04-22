@@ -23,6 +23,6 @@ de mim, creio que vai dar certo.
 
 ## Artigos e estudos que já postei no LinkedIn:
 - [Identificar serviços e portas abertas na sua rede](https://www.linkedin.com/posts/almeidapaixao_portas-tcp-ip-e-servi%C3%A7os-rodando-nelas-activity-6912363333123731456-FyiV?utm_source=linkedin_share&utm_medium=member_desktop_web)<br/>
-- [Cloud - COnceitos básicos](https://www.linkedin.com/posts/almeidapaixao_cloud-conceitos-b%C3%A1sicos-activity-6863805040289816576-6R-3?utm_source=linkedin_share&utm_medium=member_desktop_web)<br/>
+- [Cloud - Conceitos básicos](https://www.linkedin.com/posts/almeidapaixao_cloud-conceitos-b%C3%A1sicos-activity-6863805040289816576-6R-3?utm_source=linkedin_share&utm_medium=member_desktop_web)<br/>
 - [Conexões anônimas (antigo mas é informativo)](https://www.linkedin.com/posts/almeidapaixao_%C3%A9-poss%C3%ADvel-ficar-eou-se-manter-an%C3%B4nimo-na-activity-6843327329608056832-0eKd?utm_source=linkedin_share&utm_medium=member_desktop_web)<br/>
 
