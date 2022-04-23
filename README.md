@@ -21,6 +21,10 @@
 Estudante de Segurança da Informação, gosto de tentar atacar e defender redes, estou estudando dia a dia para me tornar uma versão melhor
 de mim, creio que vai dar certo.
 
+Qualquer contato, esse é meu e-mail profissional: paixaowork5@gmail.com
+
+(dont try to trick me) (eu recebo phishing todo dia, você será só mais um)
+
 ## Artigos e estudos que já postei no LinkedIn:
 - [Identificar serviços e portas abertas na sua rede](https://www.linkedin.com/posts/almeidapaixao_portas-tcp-ip-e-servi%C3%A7os-rodando-nelas-activity-6912363333123731456-FyiV?utm_source=linkedin_share&utm_medium=member_desktop_web)<br/>
 - [Cloud - Conceitos básicos](https://www.linkedin.com/posts/almeidapaixao_cloud-conceitos-b%C3%A1sicos-activity-6863805040289816576-6R-3?utm_source=linkedin_share&utm_medium=member_desktop_web)<br/>
