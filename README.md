@@ -6,7 +6,7 @@
 
 ![Almeidas's GitHub stats](https://github-readme-stats.vercel.app/api?username=paixaoalmeida&show_icons=true&theme=radical)
 
-### Some knowledge (at least the ones I found badges to put in here) Please reach me out at my LinkedIn
+### Some knowledge (at least the ones I found badges to put in here) 
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
@@ -19,7 +19,7 @@
 Information Security student, I like to try to attack and defend networks, currently learning how to code, networks and hacking.
 I am studying day by day to become a better version of myself. I like technical support, infrastructure and the information security area.
 
-Any contact, this is my professional email: paixaowork5@gmail.com
+Any contact, this is my professional email: paixaowork5@gmail.com | Please reach me out at my LinkedIn
 
 (dont try to trick me) (I get phishing every day, you'll be just one more)
 
