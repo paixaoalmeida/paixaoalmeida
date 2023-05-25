@@ -21,7 +21,11 @@
 </div><br/>
 
 </div><br/>
+
+<div>
 Currently studying programming every day to get to a professional level. Im improving really fast and getting better and better, learning about Python, SQL and GIT at the same. (I like to play with the back-end, but interested in the front-end as well)
+</div>
+<br>
 
 I'd like to get into a internship to show my skills and how good I'm in this field (Mean it, i have a lot of good times when im programming)
 
