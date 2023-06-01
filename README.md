@@ -33,7 +33,7 @@ You see, every one says they are good, but i really get feedback every day of pe
 
 <i>I really would like to make a difference at people's lives, i guess that's what coders do, they solve problems and improve other people's lives, i mean, i like to do that, a lot.</i>
 
-<strong>If you think I'm worth it, reach me out, to learn all the stuff i need to, I'm really willing to work for free in your company to get to a professional level, and my dear friend, I'm a guy who values partnerships, i will be grateful for a long time and for sure we will go to some places together, inst that awesome?</strong>
+<strong>If you think I'm worth it, reach me out, to learn all the stuff i need to, I'm really willing to work in your company to get to a professional level, and my dear friend, I'm a guy who values partnerships, i will be grateful for a long time and for sure we will go to some places together, inst that awesome?</strong>
 
 Reach me out at paixaowork5@gmail.com or at me Linkedin (In the beginning of this page)
 
