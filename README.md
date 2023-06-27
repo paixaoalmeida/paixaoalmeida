@@ -25,17 +25,24 @@
 </div><br/>
 
 <div>
-Currently studying programming every day to get to a professional level. Im improving really fast and getting better and better, learning about Python, SQL and GIT at the same. (I like to play with the back-end, but interested in the front-end as well)
-</div>
-<br>
+Professional with strong technical background and over 3 years of experience in the IT Support Field.
 
-I'd like to get into a internship to show my skills and how good I'm in this field (Mean it, i have a lot of good times when im programming)
+Currently studying to code as a professional, automate tasks and build complex systems using:
 
-You see, every one says they are good, but i really get feedback every day of people telling me i should try to program professionally, i have a lot of knowledge on the basics and i know how to connect everything very well with ease.
+✔️ Python (backend and automation)
+✔️ Flask Framework
+✔️ HTML5 and CSS3
+✔️ SQL related Databases
+✔️ Git and Github
+✔️ Pretty good understanding about networking and web protocols
+✔️ Experience with Linux systems
 
-<i>I really would like to make a difference at people's lives, i guess that's what coders do, they solve problems and improve other people's lives, i mean, i like to do that, a lot.</i>
+I also can offer a lot of other stuff that makes me unique:
 
-<strong>If you think I'm worth it, reach me out, to learn all the stuff i need to, I'm really willing to work in your company to get to a professional level, and my dear friend, I'm a guy who values partnerships, i will be grateful for a long time and for sure we will go to some places together, inst that awesome?</strong>
+✔️ Excellent communication skills (I was once a course seller)
+✔️ I know how to deal with clients and coworkers (especially the angry ones)
+✔️ I can deal pressure pretty easily and make bad situations turn into good ones very quicly
+✔️ I am not motivated; motivation is temporary—I am disciplined.
 
 Reach me out at paixaowork5@gmail.com or at me Linkedin (In the beginning of this page)
 
