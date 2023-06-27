@@ -35,6 +35,7 @@ Currently studying to code as a professional, automate tasks and build complex s
  <li>✔️ HTML5 and CSS3</li>
  <li>✔️ SQL related Databases</li>
  <li>✔️ Git and Github</li>
+ <li>✔️ Web API
  <li>✔️ Pretty good understanding about networking and web protocols</li>
  <li>✔️ Experience with Linux systems</li>
 </ul>
