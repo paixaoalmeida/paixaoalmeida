@@ -29,20 +29,25 @@ Professional with strong technical background and over 3 years of experience in 
 
 Currently studying to code as a professional, automate tasks and build complex systems using:
 
-✔️ Python (backend and automation)
-✔️ Flask Framework
-✔️ HTML5 and CSS3
-✔️ SQL related Databases
-✔️ Git and Github
-✔️ Pretty good understanding about networking and web protocols
-✔️ Experience with Linux systems
+<ul>
+ <li>✔️ Python (backend and automation)</li>
+ <li>✔️ Flask Framework</li>
+ <li>✔️ HTML5 and CSS3</li>
+ <li>✔️ SQL related Databases</li>
+ <li>✔️ Git and Github</li>
+ <li>✔️ Pretty good understanding about networking and web protocols</li>
+ <li>✔️ Experience with Linux systems</li>
+</ul>
 
-I also can offer a lot of other stuff that makes me unique:
+<b>I also can offer a lot of other stuff that makes me unique:</b>
 
-✔️ Excellent communication skills (I was once a course seller)
-✔️ I know how to deal with clients and coworkers (especially the angry ones)
-✔️ I can deal pressure pretty easily and make bad situations turn into good ones very quicly
-✔️ I am not motivated; motivation is temporary—I am disciplined.
+<ul>
+ <li>✔️ Pretty good English (I interact with natives everyday</li>
+ <li>✔️ Excellent communication skills (I was once a course seller)</li>
+ <li>✔️ I know how to deal with clients and coworkers (especially the angry ones)</li>
+ <li>✔️ I can deal pressure pretty easily and make bad situations turn into good ones very quicly</li>
+ <li>✔️ I am not motivated; motivation is temporary—I am disciplined.</li>
+</ul>
 
 Reach me out at paixaowork5@gmail.com or at me Linkedin (In the beginning of this page)
 
