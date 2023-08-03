@@ -3,16 +3,11 @@
 Professional with strong technical background and over 3 years of experience in the IT Support Field.
 
 Currently studying to code as a professional, automate tasks and build complex systems using:
-
 <ul>
- <li>✔️ Python (backend and automation)</li>
+ <li>✔️ Python (RPA and backend)</li>
  <li>✔️ Flask Framework</li>
- <li>✔️ HTML5 and CSS3</li>
  <li>✔️ SQL related Databases</li>
  <li>✔️ Git and Github</li>
- <li>✔️ Web API
- <li>✔️ Pretty good understanding about networking and web protocols</li>
- <li>✔️ Experience with Linux systems</li>
 </ul>
 
 <b>I also can offer a lot of other stuff that makes me unique:</b>
