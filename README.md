@@ -4,19 +4,16 @@ Professional with strong technical background and over 3 years of experience in 
 
 Currently studying to code as a professional, automate tasks and build complex systems using:
 <ul>
- <li>✔️ Python (RPA and backend)</li>
+ <li>✔️ Python (RPA, Backend and everything else)</li>
  <li>✔️ Flask Framework</li>
  <li>✔️ SQL related Databases</li>
- <li>✔️ Git and Github</li>
 </ul>
 
 <b>I also can offer a lot of other stuff that makes me unique:</b>
 
 <ul>
- <li>✔️ Pretty good English (I interact with natives everyday</li>
+ <li>✔️ Pretty/advanced good English (I interact with natives everyday</li>
  <li>✔️ Excellent communication skills (I was once a course seller)</li>
- <li>✔️ I know how to deal with clients and coworkers (especially the angry ones)</li>
- <li>✔️ I can deal pressure pretty easily and make bad situations turn into good ones very quicly</li>
  <li>✔️ I am not motivated; motivation is temporary—I am disciplined.</li>
 </ul>
 
